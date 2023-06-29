@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Hopefully this will work
+netstat -tln
